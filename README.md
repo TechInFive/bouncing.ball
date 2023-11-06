@@ -33,7 +33,7 @@ python main.py
 
 ## Credits & Acknowledgments 👏
 
-- The YouTube tutorial of this game is [Create a Bouncing Ball Game in 5 Minutes with Python & PyGame!](https://youtu.be/ak0RIGC-Bms).
+- The YouTube tutorial of this game is [Create a Bouncing Ball Game in 5 Minutes with Python & PyGame!](https://youtu.be/2fqL1yWAMJw).
 
 
 
